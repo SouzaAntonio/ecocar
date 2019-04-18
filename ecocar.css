@@ -1,0 +1,62 @@
+
+.principal{
+    width: 100%;
+    height: 600px;
+}
+
+#demo{
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+body{
+    background-image: url("fotos/img1.jpg");
+    width:100%;
+    height: 100%;
+}
+
+.cartao1{
+    width: 33%;
+    float: left;
+    text-align: -webkit-center;
+}
+
+.fotos_slide{
+    width: 500px !important;
+    height: 200px !important;
+}
+
+.formulario1{
+    width: auto;
+    height: auto;
+    text-align: -webkit-center;
+    margin-top: 40px;
+}
+
+.foto1{
+    width: 100%;
+    height: 200px;
+}
+
+.card{
+    height: 30rem;
+    border:40rem;
+}
+
+.quemsomos1{
+    width:100%;
+    text-align: -webkit-center;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+.carousel-inner{
+    text-align: center;
+}
+
+.quemsomos2{
+    margin-top: 40px;
+    max-width: 90% !important;
+}
